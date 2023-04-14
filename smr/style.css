@@ -1,0 +1,22 @@
+.background {
+  background: center no-repeat url(https://madsonichub.github.io/smr/background.png);
+}
+
+.logo {
+  background-image: url(https://madsonichub.github.io/smr/logo.png);
+  background-size: 580px 130px;  
+}
+
+.progressBar {
+  background-color: rgb(255, 190, 0);
+}
+
+.splash {
+  background-image: url(https://madsonichub.github.io/smr/splash.png);
+  background-size: 580px 130px;  
+}
+
+.watermark {
+  background-image: url(https://madsonichub.github.io/smr/watermark.png);
+  background-size: 290px 65px; 
+}
